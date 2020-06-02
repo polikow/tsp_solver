@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <title>JS map</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <style>
+        #map {
+            height: 100%;
+        }
+
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        .gm-style-cc {
+            display: none;
+        }
+    </style>
+
+    <!--  для взаимодествия с qt  -->
+    <script src="qrc:///qtwebchannel/qwebchannel.js"></script>
+
+    <!-- utils.js   -->
+
+    <!-- config.js  -->
+
+    <!-- map_utils.js  -->
+
+    <!-- main.js defer -->
+
+</head>
+<body>
+<div id="map"></div>
+</body>
+</html>
